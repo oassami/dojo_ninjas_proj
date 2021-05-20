@@ -1,0 +1,48 @@
+#wrapper{
+    width: 800px;
+    margin: 0px auto;
+}
+.adding{
+    margin-left: 45px;
+    width: 300px;
+    /* border: 1px solid black; */
+    display: inline-block;
+}
+h1{
+    text-align: center;
+}
+.line{
+    margin-top: 10px;
+    border: 1px solid black;
+}
+label{
+    margin: 5px;
+    margin-left: 20px;
+    width: 85px;
+    display: inline-block;
+}
+.add{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50%;
+    padding: 5px 20px 5px 20px;
+    border-radius: 10px;
+}
+.display{
+    text-align: center;
+}
+#dojos{
+    width: 55%;
+}
+li{
+    overflow-y: auto;
+}
+.delete{
+    display: inline-block;
+    /* background-color: gray;
+    color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px; */
+}
